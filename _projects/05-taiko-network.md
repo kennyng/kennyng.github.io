@@ -1,6 +1,6 @@
 ---
 title: "Taiko Network"
-url: https://github.com/taikonetwork/taikonetwork
+link: https://github.com/taikonetwork/taikonetwork
 tags:
   - name: Python
   - name: Django

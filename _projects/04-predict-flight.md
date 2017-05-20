@@ -1,6 +1,6 @@
 ---
 title: "Predicting Flight On-Time Performance"
-url: http://cs229.stanford.edu/proj2013/MathurNagaoNg-PredictingFlightOnTimePerformance.pdf
+link: http://cs229.stanford.edu/proj2013/MathurNagaoNg-PredictingFlightOnTimePerformance.pdf
 tags:
   - name: MATLAB
   - name: Python

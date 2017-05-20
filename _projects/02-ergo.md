@@ -1,6 +1,6 @@
 ---
 title: "ERGO"
-url: https://github.com/kennyng/ergo
+link: https://github.com/kennyng/ergo
 tags:
   - name: Python
   - name: Django

@@ -1,6 +1,6 @@
 ---
 title: "KPOP-POP!"
-url: https://github.com/kennyng/kpop-pop
+link: https://github.com/kennyng/kpop-pop
 tags:
   - name: Python
   - name: OpenCV

@@ -1,6 +1,6 @@
 ---
 title: "Pintos Operating System"
-url: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
+link: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
 tags:
   - name: C
 ---

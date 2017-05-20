@@ -1,6 +1,6 @@
 ---
 title: "HMM Sonnet Generator"
-url: https://github.com/kennyng/hmm-sonnet-generator
+link: https://github.com/kennyng/hmm-sonnet-generator
 tags:
   - name: Python
   - name: NLTK
